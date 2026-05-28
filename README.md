@@ -37,15 +37,3 @@ It demonstrates automation concepts and file handling operations in Python.
 - File Handling
 
 ---
-
-## ▶️ How to Run
-
-```bash
-python automation.py
-```
-
----
-
-## 👨‍💻 Author
-
-Nayam Ranjith Reddy
